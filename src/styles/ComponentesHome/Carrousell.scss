@@ -1,0 +1,24 @@
+.img-carrousell01{
+    width: 100%;
+    padding: 0;
+    height: 900px;
+    background-image: url("../../../public/assets/linha-man.jpg");
+        background-repeat: no-repeat, repeat;
+        background-size: 100%;
+        
+    @media(max-width:980px){
+        height: 200px;
+    }
+}
+.img-carrousell02{
+    width: 100%;
+    padding: 0;
+    height: 900px;
+    background-image: url("../../../public/assets/img-carroulsel2.png");
+        background-repeat: no-repeat, repeat;
+        background-size: 100%;
+        
+    @media(max-width:980px){
+        height: 200px;
+    }
+}
